@@ -14,5 +14,5 @@ get-azuresubscription
 
 ading more information here
 1.Next purpose
-1. next purpose
+2.next purpose
 
