@@ -22,3 +22,12 @@ ading more information here
 | Omar | Figueroa | om1388@hotmail.com |
 
 
+```mermaid
+graph TD;
+A-->B;
+A--C>;
+B-->D;
+C-->D;
+```
+
+
