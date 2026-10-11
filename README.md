@@ -6,4 +6,13 @@ Something in _italic_ here
 
 This repo has the following purpose:
 1. Purpose 1
-2. purpose 2
+1. purpose 2
+```powershell
+get-azuresubscription
+```
+
+
+ading more information here
+1.Next purpose
+1. next purpose
+
