@@ -17,3 +17,8 @@ ading more information here
 1. Next purpose
 1. next purpose
 
+| Firstname | Lastname | Email |
+| --------- | -------- | ----- |
+| Omar | Figueroa | om1388@hotmail.com |
+
+
